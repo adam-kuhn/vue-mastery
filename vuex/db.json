@@ -1,0 +1,531 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 90774298,
+      "user": {
+        "id": "abc123",
+        "name": "Me"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Me"
+      },
+      "title": "",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 96331626,
+      "category": "nature",
+      "title": "Nature lovers",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 60150857,
+      "category": "housing",
+      "title": "House new evenet",
+      "description": "with a des",
+      "date": "2020-10-21T10:26:00.000Z",
+      "time": "3:00",
+      "attendees": [],
+      "location": "bob"
+    },
+    {
+      "id": 64693485,
+      "category": "community",
+      "title": "comm",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1534797,
+      "category": "housing",
+      "title": "",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 33408906,
+      "category": "education",
+      "title": "",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 77275024,
+      "user": {
+        "id": "abc123",
+        "name": "Me"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Me"
+      },
+      "title": "Animal",
+      "description": "are the bes",
+      "date": "2020-10-01T11:03:00.000Z",
+      "time": "5:00",
+      "attendees": [],
+      "location": "puppy house"
+    },
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 90774298,
+      "user": {
+        "id": "abc123",
+        "name": "Me"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Me"
+      },
+      "title": "",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 96331626,
+      "category": "nature",
+      "title": "Nature lovers",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 60150857,
+      "category": "housing",
+      "title": "House new evenet",
+      "description": "with a des",
+      "date": "2020-10-21T10:26:00.000Z",
+      "time": "3:00",
+      "attendees": [],
+      "location": "bob"
+    },
+    {
+      "id": 64693485,
+      "category": "community",
+      "title": "comm",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1534797,
+      "category": "housing",
+      "title": "",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 33408906,
+      "category": "education",
+      "title": "",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 77275024,
+      "user": {
+        "id": "abc123",
+        "name": "Me"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Me"
+      },
+      "title": "Animal",
+      "description": "are the bes",
+      "date": "2020-10-01T11:03:00.000Z",
+      "time": "5:00",
+      "attendees": [],
+      "location": "puppy house"
+    },
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 90774298,
+      "user": {
+        "id": "abc123",
+        "name": "Me"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Me"
+      },
+      "title": "",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 96331626,
+      "category": "nature",
+      "title": "Nature lovers",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 60150857,
+      "category": "housing",
+      "title": "House new evenet",
+      "description": "with a des",
+      "date": "2020-10-21T10:26:00.000Z",
+      "time": "3:00",
+      "attendees": [],
+      "location": "bob"
+    },
+    {
+      "id": 64693485,
+      "category": "community",
+      "title": "comm",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 1534797,
+      "category": "housing",
+      "title": "",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 33408906,
+      "category": "education",
+      "title": "",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 77275024,
+      "user": {
+        "id": "abc123",
+        "name": "Me"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Me"
+      },
+      "title": "Animal",
+      "description": "are the bes",
+      "date": "2020-10-01T11:03:00.000Z",
+      "time": "5:00",
+      "attendees": [],
+      "location": "puppy house"
+    },
+    {
+      "id": 98726308,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Kuhn"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Kuhn"
+      },
+      "title": "asdfdas",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 77910968,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Kuhn"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Kuhn"
+      },
+      "title": "",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 89362568,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Kuhn"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Kuhn"
+      },
+      "title": "",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 94444203,
+      "user": {
+        "id": "abc123",
+        "name": "Adam Kuhn"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Kuhn"
+      },
+      "title": "rg",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}
